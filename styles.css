@@ -21,6 +21,6 @@ h3 {
     text-align: center;
 }
 
-img src="instruments.jpg" {
-    float: middle;
+div.instruments {
+    text-align: center;
 }
