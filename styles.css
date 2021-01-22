@@ -29,5 +29,6 @@ img {
 ul {
     list-style-type:circle;
     line-height:180%;
-    text-align: center;
+    display: block;
+    margin: 0 auto 0 auto; 
 }
