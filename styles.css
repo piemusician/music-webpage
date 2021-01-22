@@ -6,3 +6,8 @@ p{
     font-size: 200%;
     color: black;
 }
+
+h1 {
+    background-color: lightgray;
+    font-size: 250%;
+}
