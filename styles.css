@@ -8,7 +8,6 @@ p{
 }
 
 h1 {
-    background-color: lightgray;
+    border: 9px solid lightgray;
     font-size: 250%;
-    border: 400%;
 }
