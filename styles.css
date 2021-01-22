@@ -13,4 +13,5 @@ p{
 h1 {
     border: 9px solid lightgray;
     font-size: 250%;
+    text-align: center;
 }
