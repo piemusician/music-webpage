@@ -25,6 +25,8 @@ h3 {
 img {
     display: block;
     margin: 0 auto 0 auto;
+    width=500;
+    height=580;
 }
 
 ul {
