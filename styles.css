@@ -22,11 +22,11 @@ h3 {
     text-align: center;
 }
 
-img {
-    display: block;
+#"image1" {
+	display: block;
     margin: 0 auto 0 auto;
-    width= 500px;
-    height= 580px;
+	width= 500px;
+	height= 580px;
 }
 
 ul {
