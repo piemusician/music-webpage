@@ -22,7 +22,7 @@ h3 {
     text-align: center;
 }
 
-#"image1" {
+.div {
 	display: block;
     margin: 0 auto 0 auto;
 	width= 500px;
